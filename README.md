@@ -30,3 +30,4 @@
 ## Some Things I Like To Say / Live By:
 - *Try Making Things Simple*
 - *Have You Tried Restarting It?*
+- *It's sometimes useful to know that you don't know everything and it's okay*
