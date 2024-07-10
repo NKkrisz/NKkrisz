@@ -1,7 +1,8 @@
 # Welcome To My GitHub Page!
 
 ## You Can Find Me In These Places:
-- Discord & Twitter/X: [@NKkrisz](https://twitter.com/nkkrisz)
+- Discord & Twitter/X: [@NKkrisz](https://x.com/nkkrisz)
+- Youtube: [@NKkriszYT](https://www.youtube.com/@NKkriszYT)
 - Hacker News: [NKkrisz](https://news.ycombinator.com/user?id=NKkrisz)
 - Reddit: [u/NKkrisz](https://www.reddit.com/user/NKkrisz/)
   - [SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
