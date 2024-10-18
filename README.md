@@ -17,9 +17,9 @@
 *And More...*
 
 ## Stuff I Use:
-- Audio Gear: Sennheiser HD580 Precision & Sony LinkBuds S
+- Audio Gear: Sennheiser HD580 Precision & Simgot EW200
 - Laptop: Lenovo ThinkPad T480s
-- Desktop PC: Custom Build
+- Desktop PC: Custom Build (Ryzen 3 3100, 16GB RAM, RTX 3080Ti Mobile)
 - Phone: Google Pixel 6a
 - Gaming: Steam Deck
 - Homelab: ThinkRack
