@@ -1,8 +1,13 @@
 # Welcome To My GitHub Page!
 
-## [All Of My Socials (Linktree)](https://linktr.ee/nkkrisz)
+## Introduction
+Hi' I'm Krisz and I love tinkering with hardware. I'm also a programmer, gamer and a moderator on r/SteamDeck.
 
-## [Buy Me a Ko-Fi (Donate)](https://ko-fi.com/nkkrisz)
+## Important Links
+- [All Of My Socials (Linktree)](https://linktr.ee/nkkrisz)
+- [Buy Me a Ko-Fi (Donate)](https://ko-fi.com/nkkrisz)
+- [Steam Deck Hardware Guide](https://hardware.steamdeck.guide)
+- [nkkrisz.com](https://nkkrisz.com)
 
 ## Current interests:
 - Homelab Projects & Self Hosting
