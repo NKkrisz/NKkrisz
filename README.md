@@ -28,8 +28,10 @@ Hi' I'm Krisz and I love tinkering with hardware. I'm also a programmer, gamer a
 - Phone: Google Pixel 6a
 - Gaming: Steam Deck
 - Homelab: ThinkRack
+- Camera: Canon EOS 650D
 
-*More details available here: https://github.com/NKkrisz/HomeLab*
+*More details available here: https://github.com/NKkrisz/HomeLab
+https://github.com/NKkrisz/Studio-Setup*
 
 ## Some Things I Like To Say / Live By:
 - *Trying to teach things to other people can help show your own weaknesses which you can later improve upon.*
