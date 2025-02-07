@@ -6,7 +6,7 @@ Hi' I'm Krisz and I love tinkering with hardware. I'm also a programmer, gamer a
 ## Important Links
 - [All Of My Socials (Linktree)](https://linktr.ee/nkkrisz)
 - [Buy Me a Ko-Fi (Donate)](https://ko-fi.com/nkkrisz)
-- [Steam Deck Hardware Guide](https://hardware.steamdeck.guide)
+- [Steam Deck Guides](https://hardware.steamdeck.guide)
 - [nkkrisz.com](https://nkkrisz.com)
 
 ## Current interests:
@@ -22,16 +22,17 @@ Hi' I'm Krisz and I love tinkering with hardware. I'm also a programmer, gamer a
 *And More...*
 
 ## Stuff I Use:
-- Audio Gear: Sennheiser HD580 Precision & Simgot EW200
-- Laptop: Lenovo ThinkPad T480s
+- Audio Gear: Sennheiser HD580 Precision, Simgot EW200, Truthear x Crinacle Zero:Red, Moondrop Chu II, Fiio KA13
 - Desktop PC: Custom Build (AMD Ryzen 7 5700X3D, Nvidia RTX 3080Ti Mobile, G.Skill Aegis 2x8GB 3200mhz CL16)
+- Laptop: Lenovo ThinkPad T480s
 - Phone: Google Pixel 6a
 - Gaming: Steam Deck
 - Homelab: ThinkRack
 - Camera: Canon EOS 650D
 
-*More details available here: https://github.com/NKkrisz/HomeLab
-https://github.com/NKkrisz/Studio-Setup*
+More details available here:
+- https://github.com/NKkrisz/HomeLab
+- https://github.com/NKkrisz/Studio-Setup
 
 ## Some Things I Like To Say / Live By:
 - *Trying to teach things to other people can help show your own weaknesses which you can later improve upon.*
