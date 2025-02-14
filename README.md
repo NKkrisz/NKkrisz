@@ -25,6 +25,9 @@ Hi' I'm Krisz and I love tinkering with hardware. I'm also a programmer, gamer a
 - Audio Gear: Sennheiser HD580 Precision, Simgot EW200, Truthear x Crinacle Zero:Red, Moondrop Chu II, Fiio KA13
 - Desktop PC: Custom Build (AMD Ryzen 7 5700X3D, Nvidia RTX 3080Ti Mobile, G.Skill Aegis 2x8GB 3200mhz CL16)
 - Laptop: Lenovo ThinkPad T480s
+- Keyboard: Custom Build (Tester68, WoB Caps, Lubed Akko V3 Cream Yellow Switches, Foam, Holee Mod)
+- Mouse: Keychron M6 (Black, 1000hz)
+- Controllers: Steam Controller, TMR + Transparent Shell + Button Swapped Xbox Series X Controller, 8BitDo SN30 Pro
 - Phone: Google Pixel 6a
 - Gaming: Steam Deck
 - Homelab: ThinkRack
