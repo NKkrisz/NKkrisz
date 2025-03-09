@@ -6,7 +6,7 @@ Hi' I'm Krisz and I love tinkering with hardware. I'm also a programmer, gamer a
 ## Important Links
 - [All Of My Socials (Linktree)](https://linktr.ee/nkkrisz)
 - [Buy Me a Ko-Fi (Donate)](https://ko-fi.com/nkkrisz)
-- [Steam Deck Guides](https://hardware.steamdeck.guide)
+- [Steam Deck Guides](https://steamdeck.guide)
 - [nkkrisz.com](https://nkkrisz.com)
 
 ## Current interests:
