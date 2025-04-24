@@ -9,14 +9,13 @@ Hi' I'm Krisz and I love tinkering with hardware. I'm also a programmer, gamer a
 - [Steam Deck Guides](https://steamdeck.guide)
 - [nkkrisz.com](https://nkkrisz.com)
 
-## Current interests:
+## Current Interests:
+- Hardware Modifications & Repair
 - Homelab Projects & Self Hosting
 - Free Open Source Software
-- Web Development
-- Cybersecurity
+- Content Creation
 - Video Games
 - Audio Gear
-- Hardware
 - Linux
 
 *And More...*
