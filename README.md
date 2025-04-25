@@ -34,8 +34,8 @@ Hi' I'm Krisz and I love tinkering with hardware. I'm also a programmer, gamer a
 - Watch: Casio G-Shock GA-B2100-1A1
 
 More details available here:
-- https://github.com/NKkrisz/HomeLab (Outdated)
-- https://github.com/NKkrisz/Studio-Setup
+- https://github.com/NKkrisz/HomeLab (Outdated & Needs Revamping)
+- [Studio Setup](https://studio.nkkrisz.com)
 
 ## Some Things I Like To Say / Live By:
 - *Trying to teach things to other people can help show your own weaknesses which you can later improve upon.*
