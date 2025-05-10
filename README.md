@@ -30,7 +30,7 @@ Hi' I'm Krisz and I love tinkering with hardware. I'm also a programmer, gamer a
 - Phone: Google Pixel 6a
 - Gaming: Steam Deck
 - Homelab: ThinkRack
-- Camera: Canon EOS 650D
+- Cameras: Canon EOS 650D, FujiFilm X-T3
 - Watch: Casio G-Shock GA-B2100-1A1
 
 More details available here:
